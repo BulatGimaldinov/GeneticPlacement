@@ -1,0 +1,93 @@
+C:\_myProg\sapr-course\csharp-course\GeneticPlace\GeneticPlacement\bin\Debug\net7.0-windows\GeneticPlacement.exe
+C:\_myProg\sapr-course\csharp-course\GeneticPlace\GeneticPlacement\bin\Debug\net7.0-windows\GeneticPlacement.deps.json
+C:\_myProg\sapr-course\csharp-course\GeneticPlace\GeneticPlacement\bin\Debug\net7.0-windows\GeneticPlacement.runtimeconfig.json
+C:\_myProg\sapr-course\csharp-course\GeneticPlace\GeneticPlacement\bin\Debug\net7.0-windows\GeneticPlacement.dll
+C:\_myProg\sapr-course\csharp-course\GeneticPlace\GeneticPlacement\bin\Debug\net7.0-windows\GeneticPlacement.pdb
+C:\_myProg\sapr-course\csharp-course\GeneticPlace\GeneticPlacement\obj\Debug\net7.0-windows\GeneticPlacement.csproj.AssemblyReference.cache
+C:\_myProg\sapr-course\csharp-course\GeneticPlace\GeneticPlacement\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\_myProg\sapr-course\csharp-course\GeneticPlace\GeneticPlacement\obj\Debug\net7.0-windows\App.g.cs
+C:\_myProg\sapr-course\csharp-course\GeneticPlace\GeneticPlacement\obj\Debug\net7.0-windows\GeneticPlacement_MarkupCompile.cache
+C:\_myProg\sapr-course\csharp-course\GeneticPlace\GeneticPlacement\obj\Debug\net7.0-windows\GeneticPlacement_MarkupCompile.lref
+C:\_myProg\sapr-course\csharp-course\GeneticPlace\GeneticPlacement\obj\Debug\net7.0-windows\MainWindow.baml
+C:\_myProg\sapr-course\csharp-course\GeneticPlace\GeneticPlacement\obj\Debug\net7.0-windows\GeneticPlacement.g.resources
+C:\_myProg\sapr-course\csharp-course\GeneticPlace\GeneticPlacement\obj\Debug\net7.0-windows\GeneticPlacement.GeneratedMSBuildEditorConfig.editorconfig
+C:\_myProg\sapr-course\csharp-course\GeneticPlace\GeneticPlacement\obj\Debug\net7.0-windows\GeneticPlacement.AssemblyInfoInputs.cache
+C:\_myProg\sapr-course\csharp-course\GeneticPlace\GeneticPlacement\obj\Debug\net7.0-windows\GeneticPlacement.AssemblyInfo.cs
+C:\_myProg\sapr-course\csharp-course\GeneticPlace\GeneticPlacement\obj\Debug\net7.0-windows\GeneticPlacement.csproj.CoreCompileInputs.cache
+C:\_myProg\sapr-course\csharp-course\GeneticPlace\GeneticPlacement\obj\Debug\net7.0-windows\GeneticPlacement.dll
+C:\_myProg\sapr-course\csharp-course\GeneticPlace\GeneticPlacement\obj\Debug\net7.0-windows\refint\GeneticPlacement.dll
+C:\_myProg\sapr-course\csharp-course\GeneticPlace\GeneticPlacement\obj\Debug\net7.0-windows\GeneticPlacement.pdb
+C:\_myProg\sapr-course\csharp-course\GeneticPlace\GeneticPlacement\obj\Debug\net7.0-windows\GeneticPlacement.genruntimeconfig.cache
+C:\_myProg\sapr-course\csharp-course\GeneticPlace\GeneticPlacement\obj\Debug\net7.0-windows\ref\GeneticPlacement.dll
+C:\Users\bgima\OneDrive\Рабочий стол\GeneticPlacement\GeneticPlacement\bin\Debug\net7.0-windows\GeneticPlacement.exe
+C:\Users\bgima\OneDrive\Рабочий стол\GeneticPlacement\GeneticPlacement\bin\Debug\net7.0-windows\GeneticPlacement.deps.json
+C:\Users\bgima\OneDrive\Рабочий стол\GeneticPlacement\GeneticPlacement\bin\Debug\net7.0-windows\GeneticPlacement.runtimeconfig.json
+C:\Users\bgima\OneDrive\Рабочий стол\GeneticPlacement\GeneticPlacement\bin\Debug\net7.0-windows\GeneticPlacement.dll
+C:\Users\bgima\OneDrive\Рабочий стол\GeneticPlacement\GeneticPlacement\bin\Debug\net7.0-windows\GeneticPlacement.pdb
+C:\Users\bgima\OneDrive\Рабочий стол\GeneticPlacement\GeneticPlacement\obj\Debug\net7.0-windows\GeneticPlacement.csproj.AssemblyReference.cache
+C:\Users\bgima\OneDrive\Рабочий стол\GeneticPlacement\GeneticPlacement\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\bgima\OneDrive\Рабочий стол\GeneticPlacement\GeneticPlacement\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\bgima\OneDrive\Рабочий стол\GeneticPlacement\GeneticPlacement\obj\Debug\net7.0-windows\GeneticPlacement_MarkupCompile.cache
+C:\Users\bgima\OneDrive\Рабочий стол\GeneticPlacement\GeneticPlacement\obj\Debug\net7.0-windows\GeneticPlacement_MarkupCompile.lref
+C:\Users\bgima\OneDrive\Рабочий стол\GeneticPlacement\GeneticPlacement\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\bgima\OneDrive\Рабочий стол\GeneticPlacement\GeneticPlacement\obj\Debug\net7.0-windows\GeneticPlacement.g.resources
+C:\Users\bgima\OneDrive\Рабочий стол\GeneticPlacement\GeneticPlacement\obj\Debug\net7.0-windows\GeneticPlacement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bgima\OneDrive\Рабочий стол\GeneticPlacement\GeneticPlacement\obj\Debug\net7.0-windows\GeneticPlacement.AssemblyInfoInputs.cache
+C:\Users\bgima\OneDrive\Рабочий стол\GeneticPlacement\GeneticPlacement\obj\Debug\net7.0-windows\GeneticPlacement.AssemblyInfo.cs
+C:\Users\bgima\OneDrive\Рабочий стол\GeneticPlacement\GeneticPlacement\obj\Debug\net7.0-windows\GeneticPlacement.csproj.CoreCompileInputs.cache
+C:\Users\bgima\OneDrive\Рабочий стол\GeneticPlacement\GeneticPlacement\obj\Debug\net7.0-windows\GeneticPlacement.dll
+C:\Users\bgima\OneDrive\Рабочий стол\GeneticPlacement\GeneticPlacement\obj\Debug\net7.0-windows\refint\GeneticPlacement.dll
+C:\Users\bgima\OneDrive\Рабочий стол\GeneticPlacement\GeneticPlacement\obj\Debug\net7.0-windows\GeneticPlacement.pdb
+C:\Users\bgima\OneDrive\Рабочий стол\GeneticPlacement\GeneticPlacement\obj\Debug\net7.0-windows\GeneticPlacement.genruntimeconfig.cache
+C:\Users\bgima\OneDrive\Рабочий стол\GeneticPlacement\GeneticPlacement\obj\Debug\net7.0-windows\ref\GeneticPlacement.dll
+C:\Users\bgima\OneDrive\Рабочий стол\GeneticPlacement\GeneticPlacement\obj\Debug\net7.0-windows\App.baml
+C:\Users\bgima\OneDrive\Рабочий стол\GeneticPlacement\GeneticPlacement\obj\Debug\net7.0-windows\TaskWindow.g.cs
+C:\Users\bgima\OneDrive\Рабочий стол\GeneticPlacement\GeneticPlacement\obj\Debug\net7.0-windows\TaskWindow.baml
+C:\Users\Jamshid\Desktop\Testing\GeneticPlacement\obj\Debug\net7.0-windows\GeneticPlacement.csproj.AssemblyReference.cache
+C:\Users\Jamshid\Desktop\Testing\GeneticPlacement\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Jamshid\Desktop\Testing\GeneticPlacement\obj\Debug\net7.0-windows\TaskWindow.g.cs
+C:\Users\Jamshid\Desktop\Testing\GeneticPlacement\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Jamshid\Desktop\Testing\GeneticPlacement\obj\Debug\net7.0-windows\GeneticPlacement_MarkupCompile.cache
+C:\Users\Jamshid\Desktop\Testing\GeneticPlacement\obj\Debug\net7.0-windows\GeneticPlacement_MarkupCompile.lref
+C:\Users\Jamshid\Desktop\Testing\GeneticPlacement\obj\Debug\net7.0-windows\GeneticPlacement.dll
+C:\Users\Jamshid\Desktop\Testing\GeneticPlacement\obj\Debug\net7.0-windows\refint\GeneticPlacement.dll
+C:\Users\Jamshid\Desktop\Testing\GeneticPlacement\obj\Debug\net7.0-windows\GeneticPlacement.pdb
+C:\Users\Jamshid\Desktop\Testing\GeneticPlacement\bin\Debug\net7.0-windows\GeneticPlacement.exe
+C:\Users\Jamshid\Desktop\Testing\GeneticPlacement\bin\Debug\net7.0-windows\GeneticPlacement.deps.json
+C:\Users\Jamshid\Desktop\Testing\GeneticPlacement\bin\Debug\net7.0-windows\GeneticPlacement.runtimeconfig.json
+C:\Users\Jamshid\Desktop\Testing\GeneticPlacement\bin\Debug\net7.0-windows\GeneticPlacement.dll
+C:\Users\Jamshid\Desktop\Testing\GeneticPlacement\bin\Debug\net7.0-windows\GeneticPlacement.pdb
+C:\Users\Jamshid\Desktop\Testing\GeneticPlacement\obj\Debug\net7.0-windows\App.baml
+C:\Users\Jamshid\Desktop\Testing\GeneticPlacement\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Jamshid\Desktop\Testing\GeneticPlacement\obj\Debug\net7.0-windows\TaskWindow.baml
+C:\Users\Jamshid\Desktop\Testing\GeneticPlacement\obj\Debug\net7.0-windows\GeneticPlacement.g.resources
+C:\Users\Jamshid\Desktop\Testing\GeneticPlacement\obj\Debug\net7.0-windows\GeneticPlacement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jamshid\Desktop\Testing\GeneticPlacement\obj\Debug\net7.0-windows\GeneticPlacement.AssemblyInfoInputs.cache
+C:\Users\Jamshid\Desktop\Testing\GeneticPlacement\obj\Debug\net7.0-windows\GeneticPlacement.AssemblyInfo.cs
+C:\Users\Jamshid\Desktop\Testing\GeneticPlacement\obj\Debug\net7.0-windows\GeneticPlacement.csproj.CoreCompileInputs.cache
+C:\Users\Jamshid\Desktop\Testing\GeneticPlacement\obj\Debug\net7.0-windows\GeneticPlacement.genruntimeconfig.cache
+C:\Users\Jamshid\Desktop\Testing\GeneticPlacement\obj\Debug\net7.0-windows\ref\GeneticPlacement.dll
+C:\Users\bgima\OneDrive\Рабочий стол\Новая папка\GeneticPlacement (2)\GeneticPlacement\bin\Debug\net7.0-windows\GeneticPlacement.exe
+C:\Users\bgima\OneDrive\Рабочий стол\Новая папка\GeneticPlacement (2)\GeneticPlacement\bin\Debug\net7.0-windows\GeneticPlacement.deps.json
+C:\Users\bgima\OneDrive\Рабочий стол\Новая папка\GeneticPlacement (2)\GeneticPlacement\bin\Debug\net7.0-windows\GeneticPlacement.runtimeconfig.json
+C:\Users\bgima\OneDrive\Рабочий стол\Новая папка\GeneticPlacement (2)\GeneticPlacement\bin\Debug\net7.0-windows\GeneticPlacement.dll
+C:\Users\bgima\OneDrive\Рабочий стол\Новая папка\GeneticPlacement (2)\GeneticPlacement\bin\Debug\net7.0-windows\GeneticPlacement.pdb
+C:\Users\bgima\OneDrive\Рабочий стол\Новая папка\GeneticPlacement (2)\GeneticPlacement\obj\Debug\net7.0-windows\GeneticPlacement.csproj.AssemblyReference.cache
+C:\Users\bgima\OneDrive\Рабочий стол\Новая папка\GeneticPlacement (2)\GeneticPlacement\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\bgima\OneDrive\Рабочий стол\Новая папка\GeneticPlacement (2)\GeneticPlacement\obj\Debug\net7.0-windows\TaskWindow.g.cs
+C:\Users\bgima\OneDrive\Рабочий стол\Новая папка\GeneticPlacement (2)\GeneticPlacement\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\bgima\OneDrive\Рабочий стол\Новая папка\GeneticPlacement (2)\GeneticPlacement\obj\Debug\net7.0-windows\GeneticPlacement_MarkupCompile.cache
+C:\Users\bgima\OneDrive\Рабочий стол\Новая папка\GeneticPlacement (2)\GeneticPlacement\obj\Debug\net7.0-windows\GeneticPlacement_MarkupCompile.lref
+C:\Users\bgima\OneDrive\Рабочий стол\Новая папка\GeneticPlacement (2)\GeneticPlacement\obj\Debug\net7.0-windows\App.baml
+C:\Users\bgima\OneDrive\Рабочий стол\Новая папка\GeneticPlacement (2)\GeneticPlacement\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\bgima\OneDrive\Рабочий стол\Новая папка\GeneticPlacement (2)\GeneticPlacement\obj\Debug\net7.0-windows\TaskWindow.baml
+C:\Users\bgima\OneDrive\Рабочий стол\Новая папка\GeneticPlacement (2)\GeneticPlacement\obj\Debug\net7.0-windows\GeneticPlacement.g.resources
+C:\Users\bgima\OneDrive\Рабочий стол\Новая папка\GeneticPlacement (2)\GeneticPlacement\obj\Debug\net7.0-windows\GeneticPlacement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bgima\OneDrive\Рабочий стол\Новая папка\GeneticPlacement (2)\GeneticPlacement\obj\Debug\net7.0-windows\GeneticPlacement.AssemblyInfoInputs.cache
+C:\Users\bgima\OneDrive\Рабочий стол\Новая папка\GeneticPlacement (2)\GeneticPlacement\obj\Debug\net7.0-windows\GeneticPlacement.AssemblyInfo.cs
+C:\Users\bgima\OneDrive\Рабочий стол\Новая папка\GeneticPlacement (2)\GeneticPlacement\obj\Debug\net7.0-windows\GeneticPlacement.csproj.CoreCompileInputs.cache
+C:\Users\bgima\OneDrive\Рабочий стол\Новая папка\GeneticPlacement (2)\GeneticPlacement\obj\Debug\net7.0-windows\GeneticPlacement.dll
+C:\Users\bgima\OneDrive\Рабочий стол\Новая папка\GeneticPlacement (2)\GeneticPlacement\obj\Debug\net7.0-windows\refint\GeneticPlacement.dll
+C:\Users\bgima\OneDrive\Рабочий стол\Новая папка\GeneticPlacement (2)\GeneticPlacement\obj\Debug\net7.0-windows\GeneticPlacement.pdb
+C:\Users\bgima\OneDrive\Рабочий стол\Новая папка\GeneticPlacement (2)\GeneticPlacement\obj\Debug\net7.0-windows\GeneticPlacement.genruntimeconfig.cache
+C:\Users\bgima\OneDrive\Рабочий стол\Новая папка\GeneticPlacement (2)\GeneticPlacement\obj\Debug\net7.0-windows\ref\GeneticPlacement.dll
